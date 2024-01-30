@@ -10,16 +10,4 @@ A project to help detect between phising and benign URLs
 A lot of malicious URLs have been circulating in this modern age of tech and building this predictor to help recognize these URLs was the inspiration.
 If not for anything else I can use this to check the URLs before I click on a link 😂
 
-## 🚀 Quick Start
 
-### Install zipzod using the Go toolchain
-
-```bash
-go install github.com/xyz/zipzod@latest
-```
-
-## Run zipzod with an input directory and an output file
-
-```bash
-zipzod -i ./input -o ./output.zip
-```
